@@ -1,4 +1,4 @@
-# YT-PhaseDS: A base video dataset for pre-training surgical phase recognition models 
+# YT-PhaseDS: A Base Video Dataset for Pretraining Surgical Phase Recognition Models 
 
 This repo is created to downloads youtube videos with chapter functionality from selected queries and licence conditions. The chapters in YouTube videos are similar to phases in a surgery and manually created by uploaders, therefore, can be used for pre-training proposed models. 
 
