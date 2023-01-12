@@ -37,3 +37,4 @@ Run:
 ## Contributing
 
 ## License
+This code is available for non-commercial scientific research purposes as defined in the LICENSE file. By downloading and using this code you agree to the terms in the LICENSE. Third-party datasets and software are subject to their respective licenses.
