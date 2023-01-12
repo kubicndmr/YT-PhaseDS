@@ -10,7 +10,7 @@ This repo is created to download YouTube videos with chapter functionality from 
     - source yt-phaseds-env/bin/activate
     - pip install -r requirements.txt
 ```
-2. Follow the Step 1 in following link to create necessary creditentials: https://developers.google.com/youtube/v3/quickstart/python 
+2. Follow the Step 1 in following link to create necessary creditentials and update existing file: https://developers.google.com/youtube/v3/quickstart/python 
 
 
 ## Usage
