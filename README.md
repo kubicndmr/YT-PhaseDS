@@ -29,6 +29,10 @@ Following options can be used for the video search:
     -d --download < If specified, downloads found videos >
     -w --overwrite < If specified, starts search from scratch and overwrites existing results>
 ```
+Run:
+```
+    - phyton yt-phaseds *args
+```
 
 ## Contributing
 
