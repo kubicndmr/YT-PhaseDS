@@ -15,6 +15,21 @@ This repo is created to download YouTube videos with chapter functionality from 
 
 ## Usage
 
+The file "queries.py" holds search items. You can update this file according to your language or other requirements. 
+
+Following options can be used for the video search:
+
+```
+    -q --query < Single search query to overwrite default search terms >
+    -f --filepath < File path where the search result should be stored >
+    -n --number < Upperlimit number of videos to search per query >
+    -ln --language < Search language, default German >
+    -c --creative-common < If specified, searches only Creative Common videos >
+    -t --caption < If specified, searches videos with captions > 
+    -d --download < If specified, downloads found videos >
+    -w --overwrite < If specified, starts search from scratch and overwrites existing results>
+```
+
 ## Contributing
 
 ## License
