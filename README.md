@@ -31,7 +31,7 @@ Following options can be used for the video search:
 ```
 Run:
 ```
-    - phyton yt-phaseds *args
+    - python yt-phaseds *args
 ```
 
 ## Contributing
