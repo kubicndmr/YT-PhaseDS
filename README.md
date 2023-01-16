@@ -4,7 +4,7 @@ This repo is created to download YouTube videos with chapter functionality from 
 
 ## Getting Started
 
-1. To install dependencies, we recommend creating a virtual environment:
+1. To install dependencies, you may create a virtual environment:
 ```
     - python3 -m venv yt-phaseds-env
     - source yt-phaseds-env/bin/activate
