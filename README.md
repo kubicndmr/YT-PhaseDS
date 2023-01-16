@@ -34,7 +34,5 @@ Run:
     - python yt-phaseds *args
 ```
 
-## Contributing
-
 ## License
 By downloading and using this code you agree to the terms in the LICENSE. Third-party datasets and software are subject to their respective licenses.
